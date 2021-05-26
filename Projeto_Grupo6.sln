@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboDeImportacao", "TreinamentoExtending\RoboDeImportacao.csproj", "{02528969-8181-4AF1-B7B0-B6A9FC818DA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{5EE35F27-26B9-4904-A753-03724DE60419}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\Microsoft.Crm.Sdk.Proxy.dll = Lib\Microsoft.Crm.Sdk.Proxy.dll
+		Lib\Microsoft.Xrm.Sdk.dll = Lib\Microsoft.Xrm.Sdk.dll
+		Lib\Microsoft.Xrm.Sdk.Workflow.dll = Lib\Microsoft.Xrm.Sdk.Workflow.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csproj", "{C8420EC2-0C7C-455A-AA1D-68350D142BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScript", "JavaScript\JavaScript.csproj", "{C41107C5-98CC-44DD-BCA9-2B5E2DA61FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargaItemPedido", "CargaItemPedido\CargaItemPedido.csproj", "{DF735813-9B5D-4FE9-9826-5FD187C10801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02528969-8181-4AF1-B7B0-B6A9FC818DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02528969-8181-4AF1-B7B0-B6A9FC818DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02528969-8181-4AF1-B7B0-B6A9FC818DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02528969-8181-4AF1-B7B0-B6A9FC818DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8420EC2-0C7C-455A-AA1D-68350D142BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8420EC2-0C7C-455A-AA1D-68350D142BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8420EC2-0C7C-455A-AA1D-68350D142BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8420EC2-0C7C-455A-AA1D-68350D142BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41107C5-98CC-44DD-BCA9-2B5E2DA61FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41107C5-98CC-44DD-BCA9-2B5E2DA61FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41107C5-98CC-44DD-BCA9-2B5E2DA61FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41107C5-98CC-44DD-BCA9-2B5E2DA61FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF735813-9B5D-4FE9-9826-5FD187C10801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF735813-9B5D-4FE9-9826-5FD187C10801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF735813-9B5D-4FE9-9826-5FD187C10801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF735813-9B5D-4FE9-9826-5FD187C10801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FBE8B33-BA1F-4FAF-8EA8-586C017980BD}
+	EndGlobalSection
+EndGlobal

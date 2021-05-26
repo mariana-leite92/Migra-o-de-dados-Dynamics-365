@@ -1,0 +1,37 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\Plugin\bin\Debug\Plugin.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\Plugin\bin\Debug\Plugin.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\Plugin\obj\Debug\Plugin.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TreinamentoExtending\Plugin\obj\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\bin\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\bin\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\obj\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Extending CRM 2016\TreinamentoExtending\Plugin\obj\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\bin\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\bin\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\obj\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Alunos\Plugin\obj\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Plugin.pdb
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.dll
+D:\OneDrive\Documentos\Area de Trabalho\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.csproj.CopyComplete
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\PluginSeuNome.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\PluginSeuNome.pdb
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\PluginSeuNome.dll
+C:\Users\danie\Desktop\Desktop\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\PluginSeuNome.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Plugin.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Plugin.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Extension\Extending CRM 2016\Code\Exemplo\Plugin\obj\Debug\Plugin.pdb

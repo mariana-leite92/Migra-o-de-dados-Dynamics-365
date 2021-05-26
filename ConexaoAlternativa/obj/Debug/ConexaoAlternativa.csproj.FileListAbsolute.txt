@@ -1,0 +1,32 @@
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.dll
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.pdb
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csproj.CopyComplete
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.dll
+C:\Users\danie\OneDrive\Treinamentos\Extending 365\Fontes\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.pdb
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.dll
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.pdb
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csprojAssemblyReference.cache
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csproj.CopyComplete
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.dll
+C:\Users\leite\OneDrive\Área de Trabalho\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.pdb
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.dll
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\ConexaoAlternativa.pdb
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csprojAssemblyReference.cache
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csproj.CoreCompileInputs.cache
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.csproj.CopyComplete
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.dll
+C:\Users\cvbis\OneDrive\Área de Trabalho\curso\Projeto TCC\Exemplo\ConexaoAlternativa\obj\Debug\ConexaoAlternativa.pdb
